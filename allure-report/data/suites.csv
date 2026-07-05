@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Validate Positive ZipCode Scenario - 560087","959","getZipCode_Positive","All Test Suite","2026-06-26","passed","2026-06-26","org.example.Day1_BasicCheck.Get_TestNG","Get TestNG","org.example.Day1_BasicCheck.Get_TestNG","getZipCode_Positive"
+"Validate Negative ZipCode Scenario - -1","7393","getZipCode_Negative","All Test Suite","2026-06-26","passed","2026-06-26","org.example.Day1_BasicCheck.Get_TestNG","Get TestNG","org.example.Day1_BasicCheck.Get_TestNG","getZipCode_Negative"
